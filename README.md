@@ -16,4 +16,4 @@
 
    - dataset https://www.cs.cmu.edu/~./enron/
    
-   - run code in enron_new.ipynb for preprocessing and extracting common subgraph.
+   - run code in enron.ipynb for preprocessing and extracting common subgraph.
